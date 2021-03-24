@@ -93,7 +93,7 @@ PyWavelets==0.5.2
 PyYAML==3.12
 #pyzmq==16.0.3
 requests==2.18.1
-rsa==3.4.2
+rsa==4.1
 scandir==1.6
 scikit-image==0.13.0
 scikit-learn==0.18.1
